@@ -2,6 +2,8 @@
 
 ## Open Source Notice
 
+## Latest and Og Code Of Arrkiii Bot
+
 This source code is **not originally developed by me**.
 I had purchased this code earlier, and now I have decided to **open source / leak it publicly** for the community.
 
